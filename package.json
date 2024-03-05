@@ -1,0 +1,25 @@
+{
+  "name": "protable-tea-plus",
+  "version": "1.0.0",
+  "description": "pro table plus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakunoo/ProTablePlus.git"
+  },
+  "keywords": [
+    "table"
+  ],
+  "author": "sakunoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakunoo/ProTablePlus/issues"
+  },
+  "homepage": "https://github.com/sakunoo/ProTablePlus#readme",
+  "dependencies": {
+    "time-shortcuts": "^1.0.0"
+  }
+}
