@@ -1,6 +1,6 @@
 {
   "name": "protable-tea-plus",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "pro table plus",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sakunoo/ProTablePlus.git"
+    "url": "https://github.com/sakunoo/ProTablePlus"
   },
   "keywords": [
     "table"
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/sakunoo/ProTablePlus#readme",
   "dependencies": {
-    "time-shortcuts": "^1.0.0"
+    "time-shortcuts": "^1.0.0",
+    "web3-tools": "^0.1.10"
   }
 }
